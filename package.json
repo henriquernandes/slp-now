@@ -1,0 +1,30 @@
+{
+  "name": "slp-now",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquernandes/slp-now.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "slp",
+    "crypto",
+    "coin"
+  ],
+  "author": "Henrique Ernandes Rebelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henriquernandes/slp-now/issues"
+  },
+  "homepage": "https://github.com/henriquernandes/slp-now#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "discord.js": "^13.1.0"
+  }
+}
